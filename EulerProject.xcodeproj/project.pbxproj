@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		9CFAC4EE23C4E9390066E13D /* EulerProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = EulerProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CFAC4F123C4E9390066E13D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9CFAC4F823C4E9830066E13D /* euler problems.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "euler problems.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		9CFAC4E523C4E9390066E13D = {
 			isa = PBXGroup;
 			children = (
+				9CFAC4F823C4E9830066E13D /* euler problems.playground */,
 				9CFAC4F023C4E9390066E13D /* EulerProject */,
 				9CFAC4EF23C4E9390066E13D /* Products */,
 			);
