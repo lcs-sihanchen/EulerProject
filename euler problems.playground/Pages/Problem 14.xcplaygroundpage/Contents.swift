@@ -18,6 +18,7 @@ func collatzSequenceCount(number: Int) -> Int {
 
     return gridCount + 2
 }
+// number: 11 result: 14+2=16
 collatzSequenceCount(number: 11)
 
 
